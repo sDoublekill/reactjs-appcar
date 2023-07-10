@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0c5540df.css",
+    "main.js": "/static/js/main.53cab02a.js",
+    "static/js/787.70112e08.chunk.js": "/static/js/787.70112e08.chunk.js",
+    "static/media/1.png": "/static/media/1.677e0d22c176da2a10d3.png",
+    "static/media/2.jpeg": "/static/media/2.66d1bb65518a49673623.jpeg",
+    "static/media/5.jpg": "/static/media/5.631983bff69c3d0de0bf.jpg",
+    "static/media/9.jpg": "/static/media/9.7355f059cdd83354ea16.jpg",
+    "static/media/Swift.png": "/static/media/Swift.650a200d4f8ef2cea776.png",
+    "static/media/6.jpg": "/static/media/6.32c2a18db4857976b50c.jpg",
+    "static/media/7.jpg": "/static/media/7.58716b99808629f4ebcb.jpg",
+    "static/media/4.jpg": "/static/media/4.3c7b1db6a61e576ad843.jpg",
+    "static/media/3.jpg": "/static/media/3.2c22d8a6eef66558f28d.jpg",
+    "static/media/Attrage.jpg": "/static/media/Attrage.d0f24518bb2055e41cd3.jpg",
+    "static/media/8.jpg": "/static/media/8.c7de91dbec5ee6abb799.jpg",
+    "static/media/1.webp": "/static/media/1.7ea3de71ba71a4219de7.webp",
+    "static/media/4.webp": "/static/media/4.b8dd7277260c3f891cc2.webp",
+    "static/media/2.webp": "/static/media/2.0cb59018598f6d968b98.webp",
+    "static/media/1.jpg": "/static/media/1.105ad808442bf82fc454.jpg",
+    "static/media/LOGO.png": "/static/media/LOGO.754d5f611857627cc9b1.png",
+    "static/media/Yaris.png": "/static/media/Yaris.eccc9c5ac76c49fb3189.png",
+    "static/media/3.webp": "/static/media/3.2c21f3895ed07cb08fdd.webp",
+    "static/media/City.jpg": "/static/media/City.3909faaccc82347bf74c.jpg",
+    "static/media/Almera.jpg": "/static/media/Almera.8073d8abd3c20a0697f7.jpg",
+    "static/media/2.jpg": "/static/media/2.b09454f55bbcf001ab9b.jpg",
+    "static/media/Mazada2.jpg": "/static/media/Mazada2.f35f2c378eb5c91bc53c.jpg",
+    "static/media/Premium Luxury.webp": "/static/media/Premium Luxury.faee0160ecccca3b41af.webp",
+    "index.html": "/index.html",
+    "main.0c5540df.css.map": "/static/css/main.0c5540df.css.map",
+    "main.53cab02a.js.map": "/static/js/main.53cab02a.js.map",
+    "787.70112e08.chunk.js.map": "/static/js/787.70112e08.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0c5540df.css",
+    "static/js/main.53cab02a.js"
+  ]
+}
